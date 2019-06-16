@@ -13,6 +13,7 @@ Let's find a good cafe to code!
 	+ [투썸플레이스 - 서울시립대점](./data/twosome_place_siripdae_jeongmoon.md)(★★★☆☆) - 신기하게 집중된다!
 	+ [YOGERPRESSO - 서울특별시립대점](./data/yogerpresso_siripdae_jeongmoon.md)(★★★☆☆) - 콘센트가 너무 없어서 슬프지만 초코는 맛있어!
 	+ [꿀스커피 - 청량리점](./data/gguls_coffee_siripdae_jeongmoon.md)(★★☆☆☆) - 사람이 없어서 편하다!
+	+ [리코스타](./data/ricosta_siripdae_jeongmoon.md)(★★★☆☆) - 24시간 영업하는 피시방 겸 카페! 
 * 후문
 	+ [카페시그널](./data/cafe_signal_siripdae_hoomoon.md)(★★★★☆) - 인기가 많아서 늘 자리가 없다!
 	+ [Re born](./data/cafe_reborn_siripdae_hoomoon.md)(★★★★☆) - 공사중인 것 같다!
@@ -29,6 +30,3 @@ Let's find a good cafe to code!
 * 정문
 	+ [Starbucks - 경희대삼거리점](./data/starbucks_kyeongheedae_jeongmoon.md)(★★★★☆) - B1~4층짜리 거대 스타벅스. 시립대에는 왜 없지?
 	+ [The Coffee Bean - 경희대점](./data/the_coffee_bean_kyeonghee_univ_jeongmoon.md)(★★★☆☆) - 너무 멀어서 자주 안 가봤다..!
-
-### UNKNOWN
-* [리코스타](./data/ricosta_.md)(★★★☆☆) - 24시간 영업하는 피시방 겸 카페! 
