@@ -5,7 +5,7 @@ Let's find a good cafe to code!
 
 * 정문
 	+ [EDIYA - 서울시립대점](./data/uos/jeongmoon/ediya.md)(★★★★☆) - 진짜 적절하다!
-	+ [시립대사거리 카페](./data/uos/jeongmoon/siripdae_sageori_jeongmoon.md)(★★★★☆) - 창가 자리만 콘센트가 있는 것 같다!
+	+ [시립대사거리 카페](./data/uos/jeongmoon/cafe_sisa.md)(★★★★☆) - 창가 자리만 콘센트가 있는 것 같다!
 	+ [커피에반하다 시립대점](./data/uos/jeongmoon/fall_in_love_with_coffee.md)(★★★★☆) - 정문에 갈 곳이 없다면 추천! 가성비 짱!
 	+ [여느일](./data/uos/jeongmoon/yeoneuil.md)(★★★★☆) - 계란 샌드위치가 맛있다.
 	+ [너디블루](./data/uos/jeongmoon/nerdy_blue.md)(★★★★☆) - 낮에는 카페, 밤에는 펍
