@@ -17,6 +17,8 @@ Let's find a good cafe to code!
 * 후문
 	+ [카페시그널](./data/cafe_signal_siripdae_hoomoon.md)(★★★★☆) - 인기가 많아서 늘 자리가 없다!
 	+ [Re born](./data/cafe_reborn_siripdae_hoomoon.md)(★★★★☆) - 공사중인 것 같다!
+	+ [빵선생](./data/bakery_bbangsseam_siripdae_hoomoon.md)(★★★★☆) - 빵과 함께 코딩!
+	+ [ACID BREW](./data/cafe_acidbrew_siripdae_hoomoon.md)(★★★☆☆) - 후문에서 가깝지만 자리가 없다.
 * 쪽문
 	+ [COFFEE BAY - 시립대점](./data/coffee_bay_siripdae_jjokmoon.md)(★★★☆☆) - 생각보다 자리가 엄청 많다!
 
