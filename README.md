@@ -21,6 +21,7 @@ Let's find a good cafe to code!
 	+ [Re born](./data/uos/hoomoon/cafe_reborn.md)(★★★★☆) - 공사중인 것 같다!
 	+ [빵선생](./data/uos/hoomoon/bakery_bbangsseam.md)(★★★★☆) - 빵과 함께 코딩!
 	+ [ACID BREW](./data/uos/hoomoon/cafe_acidbrew.md)(★★★☆☆) - 후문에서 가깝지만 자리가 없다.
+	+ [cafe 1:11am](./data/uos/hoomoon/cafe1_11am.md)(★★★★★) - 강아지가 한 마리 있다!
 * 쪽문
 	+ [COFFEE BAY - 시립대점](./data/uos/jjokmoon/coffee_bay.md)(★★★☆☆) - 생각보다 자리가 엄청 많다!
 	+ [망우로 30](./data/uos/jjokmoon/mangwooro_30.md)(★★★☆☆) - 제주도 분위기 카페
