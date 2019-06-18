@@ -21,10 +21,10 @@ Let's find a good cafe to code!
 	+ [ACID BREW](./data/uos/hoomoon/cafe_acidbrew.md)(★★★☆☆) - 후문에서 가깝지만 자리가 없다.
 * 쪽문
 	+ [COFFEE BAY - 시립대점](./data/uos/jjokmoon/coffee_bay.md)(★★★☆☆) - 생각보다 자리가 엄청 많다!
+	+ [망우로 30](./data/uos/jjokmoon/mangwooro_30.md)(★★★☆☆) - 제주도 분위기 카페
 
 ### 회기역
 
-* [망우로 30](./data/hoegi_station/mangwooro_30.md)(★★★☆☆) - 제주도 분위기 카페
 * [Starbucks - 회기역점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 
 ### 경희대
