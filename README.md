@@ -28,7 +28,7 @@ Let's find a good cafe to code!
 
 ### 회기역
 
-* [Starbucks - 회기역점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
+* [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 
 ### 경희대
 
