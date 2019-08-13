@@ -17,3 +17,4 @@
 - [네이버](https://store.naver.com/restaurants/detail?id=1856553001)
 
 ### 근황
+2019-08-09 / 의자 수가 조금 늘어난 것 같다.
