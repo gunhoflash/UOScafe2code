@@ -1,7 +1,11 @@
 # UOS Cafe to Code
 Let's find a good cafe to code!
 
-## Cafe List
+## 누구나 자유롭게 참여할 수 있습니다!
+
+[가이드라인](./CONTRIBUTING.md)을 참고하세요!
+
+## 카페 목록
 
 ### 서울시립대
 
@@ -35,7 +39,3 @@ Let's find a good cafe to code!
 * 정문
 	+ [Starbucks - 경희대삼거리점](./data/khu/jeongmoon/starbucks.md)(★★★★☆) - B1~4층짜리 거대 스타벅스. 시립대에는 왜 없지?
 	+ [The Coffee Bean - 경희대점](./data/khu/jeongmoon/the_coffee_bean.md)(★★★☆☆) - 너무 멀어서 자주 안 가봤다..!
-
-## 누구나 자유롭게 참여할 수 있습니다!
-
-[가이드라인](./CONTRIBUTING.md)을 참고하세요!
