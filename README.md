@@ -1,5 +1,8 @@
 # UOS Cafe to Code
+
 Let's find a good cafe to code!
+
+See this page on https://gunhoflash.github.io/UOScafe2code/.
 
 ## 누구나 자유롭게 참여할 수 있습니다!
 
