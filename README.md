@@ -30,11 +30,13 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [ACID BREW](./data/uos/hoomoon/cafe_acidbrew.md)(★★★☆☆) - 후문에서 가깝지만 자리가 없다.
 	+ [cafe 1:11am](./data/uos/hoomoon/cafe1_11am.md)(★★★★★) - 강아지가 한 마리 있다!
 * 쪽문
+	+ [better than](./data/uos/jjokmoon/betterthan.md)(★★★☆☆) - 인스타 감성, 여유롭고 고급스러운 카페
 	+ [COFFEE BAY - 시립대점](./data/uos/jjokmoon/coffee_bay.md)(★★★☆☆) - 생각보다 자리가 엄청 많다!
 	+ [망우로 30](./data/uos/jjokmoon/mangwooro_30.md)(★★★☆☆) - 제주도 분위기 카페
 
 ### 회기역
 
+* [BEAN KHAN](./data/hoegi_station/beankhan.md)(★★★★☆) - 레트로 분위기의 감성 카페
 * [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 
 ### 경희대
