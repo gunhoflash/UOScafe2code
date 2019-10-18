@@ -6,7 +6,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 
 ## 누구나 자유롭게 참여할 수 있습니다!
 
-[가이드라인](./CONTRIBUTING.md)을 참고하세요!
+[가이드라인](./contribute/README.md)을 참고하세요!
 
 ## 카페 목록
 
