@@ -37,6 +37,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 ### 회기역
 
 * [BEAN KHAN](./data/hoegi_station/beankhan.md)(★★★★☆) - 레트로 분위기의 감성 카페
+* [카페베네 - 회기역점](./data/hoegi_station/caffebene.md)(★★★☆☆) - 낮 시간만 피하면 괜찮다
 * [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 
 ### 경희대
