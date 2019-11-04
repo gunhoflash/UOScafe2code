@@ -16,4 +16,7 @@
 
 - [네이버](https://store.naver.com/restaurants/detail?id=1897747806)
 
-### 근황
+### 무선인터넷
+- SSID : KT_GiGA_2G_FDE3
+    - 다운로드 속도(Max/Avg/Min) : 42/35/28 Mbps
+    - 업로드 속도(Max/Avg/Min) : 55/40/21 Mbps
