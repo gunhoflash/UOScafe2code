@@ -23,7 +23,6 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [리코스타](./data/uos/jeongmoon/ricosta.md)(★★★☆☆) - 24시간 영업하는 피시방 겸 카페! 
 	+ [투썸플레이스 - 서울시립대점](./data/uos/jeongmoon/twosome_place.md)(★★★☆☆) - 신기하게 집중된다!
 	+ [여느일](./data/uos/jeongmoon/yeoneuil.md)(★★★★☆) - 계란 샌드위치가 맛있다.
-	+ [YOGERPRESSO - 서울특별시립대점](./data/uos/jeongmoon/yogerpresso.md)(★★★☆☆) - 초코는 맛있어!
 * 후문
 	+ [빵선생](./data/uos/hoomoon/bakery_bbangsseam.md)(★★★★☆) - 빵과 함께 코딩!
 	+ [ACID BREW](./data/uos/hoomoon/cafe_acidbrew.md)(★★★☆☆) - 후문에서 가깝지만 자리가 없다.
