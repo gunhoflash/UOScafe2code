@@ -16,6 +16,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [BREMEN](./data/uos/jeongmoon/bremen.md)(★★☆☆☆) - 다른 카페에 자리가 없으면 굳이 올만한?
 	+ [카페 온](./data/uos/jeongmoon/cafe_on.md)(★★★★☆) - 아늑하다!
 	+ [시립대사거리 카페](./data/uos/jeongmoon/cafe_sisa.md)(★★★★☆) - 창가 자리만 콘센트가 있는 것 같다!
+	+ [Cubby House](./data/uos/jeongmoon/cubbyhouse.md)(★★★★☆) - 자주 오게 될 것 같다!
 	+ [EDIYA - 서울시립대점](./data/uos/jeongmoon/ediya.md)(★★★★☆) - 거의 좋다!
 	+ [커피에반하다 시립대점](./data/uos/jeongmoon/fall_in_love_with_coffee.md)(★★★★☆) - 정문에 갈 곳이 없다면 추천! 가성비 짱!
 	+ [꿀스커피 - 청량리점](./data/uos/jeongmoon/gguls_coffee.md)(★★☆☆☆) - 사람이 없어서 편하다!
