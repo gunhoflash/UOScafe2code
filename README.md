@@ -42,7 +42,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 * [커피나무](./data/hoegi_station/coffeenamu.md)(★★★☆☆) - 낮 시간만 피하면 괜찮다.
 * [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 * [탐앤탐스](./data/hoegi_station/tomntoms.md)(★★☆☆☆) - 코딩하기 좋지 않다.
-* 맵시짱
+* [랭스터디카페] (./data/hoegi_station/langstudy.md)(★★★★☆) - 너무 조용한게 단점이라면 단점
 
 ### 경희대
 
@@ -52,3 +52,4 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [Eins](./data/khu/jeongmoon/eins.md)(★★★★☆) - 어느 시간대에 와도 아늑한 곳
 	+ [Starbucks - 경희대삼거리점](./data/khu/jeongmoon/starbucks.md)(★★★★☆) - B1~4층짜리 거대 스타벅스. 시립대에는 왜 없지?
 	+ [The Coffee Bean - 경희대점](./data/khu/jeongmoon/the_coffee_bean.md)(★★★☆☆) - 너무 멀어서 자주 안 가봤다..!
+	
