@@ -35,7 +35,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 	+ [COFFEE BAY - 시립대점](./data/uos/jjokmoon/coffee_bay.md)(★★★☆☆) - 생각보다 자리가 엄청 많다!
 	+ [망우로 30](./data/uos/jjokmoon/mangwooro_30.md)(★★★☆☆) - 제주도 분위기 카페
 
-### 회기역
+### 회기역 아 구벙르당
 
 * [BEAN KHAN](./data/hoegi_station/beankhan.md)(★★★★☆) - 레트로 분위기의 감성 카페
 * [cafe unchild](./data/hoegi_station/cafeunchild.md)(★★☆☆☆) - 코딩말고, 코딩하다 쉬러 올 만한 곳!
