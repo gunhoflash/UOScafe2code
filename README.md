@@ -43,6 +43,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 * [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 * [탐앤탐스](./data/hoegi_station/tomntoms.md)(★★☆☆☆) - 코딩하기 좋지 않다.
 * [랭스터디카페](./data/hoegi_station/langstudycafe.md)(★★★★★) - 8000원의 행복(9n년생이라면 만원의 행복 rgrg?)
+* [thestudy](./data/hoegi_station/thestudy.md)(★★★☆☆) - 새벽에 공부하러 오기 좋다.(낮에 오면 사람이 너무 많기에...)
 
 ### 경희대
 
