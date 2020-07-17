@@ -42,7 +42,7 @@ See this page on https://gunhoflash.github.io/UOScafe2code/.
 * [커피나무](./data/hoegi_station/coffeenamu.md)(★★★☆☆) - 낮 시간만 피하면 괜찮다.
 * [Starbucks - 회기역사거리점](./data/hoegi_station/starbucks.md)(★★★☆☆) - 가장 가까운 스타벅스. 시립대도 좀 생겨라!
 * [탐앤탐스](./data/hoegi_station/tomntoms.md)(★★☆☆☆) - 코딩하기 좋지 않다.
-* [랭스터디카페](./data/hoegi_station/langstudy.md)(★★★★☆) - 너무 조용한게 단점이라면 단점
+* [랭스터디카페](./data/hoegi_station/langstudycafe.md)(★★★★★) - 8000원의 행복(9n년생이라면 만원의 행복 rgrg?)
 
 ### 경희대
 
