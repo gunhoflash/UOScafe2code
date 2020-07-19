@@ -17,3 +17,5 @@
 - [네이버](https://store.naver.com/restaurants/detail?entry=plt&id=32532791)
 
 ### 근황
+
+- 무선인터넷 : ★★☆☆☆ (자주 끊긴다.) -20.07.18
