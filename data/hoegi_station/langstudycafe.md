@@ -14,7 +14,8 @@
 
 ### 외부링크
 
-- [랭스터디공식홈페이지](https://store.naver.com/restaurants/detail?id=35076339)
+- [랭스터디공식홈페이지](https://langstudycafekhu.modoo.at/)
+- [네이버](https://store.naver.com/restaurants/detail?id=1756979875)
 
 ### 근황
 
